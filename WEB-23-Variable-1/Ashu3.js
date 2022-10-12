@@ -1,0 +1,16 @@
+let x = "report card";
+console.log(x);
+let name = "N Vanith Kumar";
+console.log(name);
+let school = "Model School";
+console.log(school);
+let grade = 9.5;
+console.log(grade);
+let section = "Thulips";
+console.log(section);
+let rollno = 05;
+console.log(rollno);
+let marks_telugu = 98;
+let marks_hindi = 95;
+let marks_english = 90;
+console.log(marks_telugu, marks_hindi, marks_english);
